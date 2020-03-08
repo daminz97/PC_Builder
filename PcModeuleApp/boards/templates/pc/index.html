@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="content mt-4">
+    <h2>PC Build</h2>
+    <div class="mt-2 mb-2">
+        <a href="{% url 'modules:create_pc' %}" class="btn btn-primary">Build your PC</a>
+    </div>
+    <div class="list-group">
+        {% for pc in pc_list %}
+            <a href="{% url 'modules:pc_detail' pc.id %}" class="list-group-item list-group-item-action">{{ pc.brand }} {{ pc.name }}</a>
+        {% empty %}
+            <p>No data found.</p>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

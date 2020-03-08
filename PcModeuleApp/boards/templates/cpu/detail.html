@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="content mt-4">
+    {% if cpu %}
+    <h2>{{ cpu.brand }} {{ cpu.name }}</h2>
+    <ul class="list-group">
+        <li class="list-group-item">Brand: {{ cpu.brand }}</li>
+        <li class="list-group-item">Name: {{ cpu.name }}</li>
+        <li class="list-group-item">Cores: {{ cpu.core }}</li>
+        <li class="list-group-item">Threads: {{ cpu.thread }}</li>
+        <li class="list-group-item">Clock: {{ cpu.clock }}</li>
+        <li class="list-group-item">Socket: {{ cpu.socket }}</li>
+        <li class="list-group-item">Process: {{ cpu.process }}</li>
+        <li class="list-group-item">TDP: {{ cpu.tdp }}</li>
+    </ul>
+    {% else %}
+        <p>No data found.</p>
+    {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,21 @@
+.flex-wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box
+}
+
+.row {
+    margin: 1% 0
+}
+
+#copyright {
+    margin: 0 auto;
+    text-align: center;
+}

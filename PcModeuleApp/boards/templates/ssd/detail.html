@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="content mt-4">
+    {% if ssd %}
+    <h2>{{ ssd.brand }} {{ ssd.name }}</h2>
+    <ul class="list-group">
+        <li class="list-group-item">Brand: {{ ssd.brand }}</li>
+        <li class="list-group-item">Name: {{ ssd.name }}</li>
+        <li class="list-group-item">Capacity: {{ ssd.capacity }}</li>
+        <li class="list-group-item">Type: {{ ssd.type }}</li>
+    </ul>
+    {% else %}
+        <p>No data found.</p>
+    {% endif %}
+</div>
+{% endblock %}

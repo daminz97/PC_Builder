@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="content mt-4">
+    {% if pc %}
+    <h2>{{ pc.name }} by {{ pc.published_by }}</h2>
+    <ul class="list-group">
+        <a href="{% url 'modules:cpu_detail' pc.cpu.id %}" class="list-group-item list-group-item-action">CPU: {{ pc.cpu }}</a>
+        <a href="{% url 'modules:gpu_detail' pc.gpu.id %}" class="list-group-item list-group-item-action">GPU: {{ pc.gpu }}</a>
+        <a href="{% url 'modules:mb_detail' pc.motherboard.id %}" class="list-group-item list-group-item-action">Motherboard: {{ pc.motherboard }}</a>
+        <a href="{% url 'modules:ram_detail' pc.ram.id %}" class="list-group-item list-group-item-action">RAM: {{ pc.ram }}</a>
+        <a href="{% url 'modules:ssd_detail' pc.ssd.id %}" class="list-group-item list-group-item-action">SSD: {{ pc.ssd }}</a>
+        <a href="{% url 'modules:hdd_detail' pc.hdd.id %}" class="list-group-item list-group-item-action">HDD: {{ pc.hdd }}</a>
+    </ul>
+    {% else %}
+        <p>No data found.</p>
+    {% endif %}
+</div>
+{% endblock %}

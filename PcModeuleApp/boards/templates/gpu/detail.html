@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="content mt-4">
+    {% if gpu %}
+    <h2>{{ gpu.brand }} {{ gpu.name }}</h2>
+    <ul class="list-group">
+        <li class="list-group-item">Brand: {{ gpu.brand }}</li>
+        <li class="list-group-item">Name: {{ gpu.name }}</li>
+        <li class="list-group-item">Clock: {{ gpu.clock }}</li>
+        <li class="list-group-item">Memory: {{ gpu.memory }}</li>
+        <li class="list-group-item">Architecture: {{ gpu.architecture }}</li>
+        <li class="list-group-item">Number of Fan: {{ gpu.fan_num }}</li>
+        <li class="list-group-item">Power: {{ gpu.power }}</li>
+    </ul>
+    {% else %}
+        <p>No data found.</p>
+    {% endif %}
+</div>
+{% endblock %}

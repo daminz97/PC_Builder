@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="content mt-4">
+    <h2>RAM</h2>
+    <div class="list-group">
+        {% for ram in ram_list %}
+            <a href="{% url 'modules:ram_detail' ram.id %}" class="list-group-item list-group-item-action">{{ ram.brand }} {{ ram.name }}</a>
+        {% empty %}
+            <p>No data found.</p>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

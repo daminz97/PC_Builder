@@ -1,0 +1,1112 @@
+[
+   {
+      "pk": "1",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws 4",
+         "speed": "DDR4-2400",
+         "modules": "8x16GB"
+      }
+   },
+   {
+      "pk": "2",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Trident Z",
+         "speed": "DDR4-3200",
+         "modules": "4x16GB"
+      }
+   },
+   {
+      "pk": "3",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "Ballistix Sport",
+         "speed": "DDR4-2400",
+         "modules": "8x4GB"
+      }
+   },
+   {
+      "pk": "4",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Flare X",
+         "speed": "DDR4-3200",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "5",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "Ballistix Elite",
+         "speed": "DDR4-3600",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "6",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Trident Z",
+         "speed": "DDR4-3200",
+         "modules": "4x16GB"
+      }
+   },
+   {
+      "pk": "7",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Dominator",
+         "speed": "DDR4-3000",
+         "modules": "4x16GB"
+      }
+   },
+   {
+      "pk": "8",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2666",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "9",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "Ballistix Sport",
+         "speed": "DDR4-2400",
+         "modules": "4x4GB"
+      }
+   },
+   {
+      "pk": "10",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Flare X",
+         "speed": "DDR4-3200",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "11",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws V",
+         "speed": "DDR4-3200",
+         "modules": "4x16GB"
+      }
+   },
+   {
+      "pk": "12",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Trident Z",
+         "speed": "DDR4-3600",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "13",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR4-2666",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "14",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws 4",
+         "speed": "DDR4-3000",
+         "modules": "4x4GB"
+      }
+   },
+   {
+      "pk": "15",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Trident Z",
+         "speed": "DDR4-3600",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "16",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "Ballistix Elite",
+         "speed": "DDR4-3600",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "17",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws 4",
+         "speed": "DDR4-2800",
+         "modules": "4x4GB"
+      }
+   },
+   {
+      "pk": "18",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance RGB",
+         "speed": "DDR4-3600",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "19",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance RGB",
+         "speed": "DDR4-3466",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "20",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-3000",
+         "modules": "4x4GB"
+      }
+   },
+   {
+      "pk": "21",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Trident Z",
+         "speed": "DDR4-3600",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "22",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2800",
+         "modules": "4x4GB"
+      }
+   },
+   {
+      "pk": "23",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws V",
+         "speed": "DDR4-3200",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "24",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "25",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-3200",
+         "modules": "2x16GB"
+      }
+   },
+   {
+      "pk": "26",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "4x4GB"
+      }
+   },
+   {
+      "pk": "27",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2666",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "28",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-3200",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "29",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2666",
+         "modules": "4x4GB"
+      }
+   },
+   {
+      "pk": "30",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance RGB",
+         "speed": "DDR4-3200",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "31",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Trident Z",
+         "speed": "DDR4-3200",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "32",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance RGB PRO",
+         "speed": "DDR4-3200",
+         "modules": "2x16GB"
+      }
+   },
+   {
+      "pk": "33",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Trident Z RGB",
+         "speed": "DDR4-3200",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "34",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "35",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance RGB",
+         "speed": "DDR4-3000",
+         "modules": "2x16GB"
+      }
+   },
+   {
+      "pk": "36",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LED",
+         "speed": "DDR4-3200",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "37",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR4-2666",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "38",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-3000",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "39",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Trident Z",
+         "speed": "DDR4-3000",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "40",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LED",
+         "speed": "DDR4-3000",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "41",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR4-2400",
+         "modules": "4x4GB"
+      }
+   },
+   {
+      "pk": "42",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Dominator",
+         "speed": "DDR4-3000",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "43",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-3000",
+         "modules": "2x16GB"
+      }
+   },
+   {
+      "pk": "44",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance",
+         "speed": "DDR3-1600",
+         "modules": "8x8GB"
+      }
+   },
+   {
+      "pk": "45",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR4-2666",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "46",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Predator",
+         "speed": "2666",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "47",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Trident Z RGB",
+         "speed": "DDR4-3000",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "48",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-3000",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "49",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance RGB",
+         "speed": "DDR4-3000",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "50",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance RGB",
+         "speed": "DDR4-3000",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "51",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "2666",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "52",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "4x4GB"
+      }
+   },
+   {
+      "pk": "53",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR4-2133",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "54",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance RGB PRO",
+         "speed": "DDR4-3200",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "55",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-3000",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "56",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "Ballistix Sport LT",
+         "speed": "DDR4-2400",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "57",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR4-2400",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "58",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2666",
+         "modules": "2x16GB"
+      }
+   },
+   {
+      "pk": "59",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2666",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "60",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2666",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "61",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance RGB",
+         "speed": "DDR4-2666",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "62",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "Ballistix Sport LT",
+         "speed": "DDR4-2400",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "63",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "Ballistix Sport",
+         "speed": "DDR4-2400",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "64",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws V",
+         "speed": "DDR4-2400",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "65",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "66",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "2x16GB"
+      }
+   },
+   {
+      "pk": "67",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "68",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LED",
+         "speed": "DDR4-2666",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "69",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LED",
+         "speed": "DDR4-2400",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "70",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "71",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws V",
+         "speed": "DDR4-2400",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "72",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "73",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR4-2133",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "74",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "TridentX",
+         "speed": "DDR3-2400",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "75",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws V",
+         "speed": "DDR4-2400",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "76",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws V",
+         "speed": "DDR4-2133",
+         "modules": "2x16GB"
+      }
+   },
+   {
+      "pk": "77",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws 4",
+         "speed": "DDR4-2400",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "78",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2133",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "79",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR4-2133",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "80",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws V",
+         "speed": "DDR4-2133",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "81",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws V",
+         "speed": "DDR4-2133",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "82",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "TridentX",
+         "speed": "DDR3-2400",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "83",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "Ballistix Sport",
+         "speed": "DDR4-2400",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "84",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Savage",
+         "speed": "DDR3-2400",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "85",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance Pro",
+         "speed": "DDR3-2400",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "86",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR3-1866",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "87",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "Ballistix Sport",
+         "speed": "DDR3-1600",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "88",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR3-1600",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "89",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "RipjawsX",
+         "speed": "DDR3-1866",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "90",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "RipjawsX",
+         "speed": "DDR3-1600",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "91",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "RipjawsX",
+         "speed": "DDR3-1600",
+         "modules": "4x8GB"
+      }
+   },
+   {
+      "pk": "92",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Savage",
+         "speed": "DDR3-1600",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "93",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR3-1600",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "94",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "XMS3",
+         "speed": "DDR3-1600",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "95",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "RipjawsX",
+         "speed": "DDR3-1600",
+         "modules": "2x8GB"
+      }
+   },
+   {
+      "pk": "96",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR3-1866",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "97",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance",
+         "speed": "DDR3-1600",
+         "modules": "2x4GB"
+      }
+   },
+   {
+      "pk": "98",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "Ballistix Sport LT",
+         "speed": "DDR4-2666",
+         "modules": "1x8GB"
+      }
+   },
+   {
+      "pk": "99",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "Ballistix Sport LT",
+         "speed": "DDR4-2400",
+         "modules": "1x8GB"
+      }
+   },
+   {
+      "pk": "100",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "1x8GB"
+      }
+   },
+   {
+      "pk": "101",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "UDIMM",
+         "speed": "DDR4-2400",
+         "modules": "1x16GB"
+      }
+   },
+   {
+      "pk": "102",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "UDIMM",
+         "speed": "DDR4-2400",
+         "modules": "1x8GB"
+      }
+   },
+   {
+      "pk": "103",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "HyperX",
+         "name": "Fury",
+         "speed": "DDR4-2133",
+         "modules": "1x8GB"
+      }
+   },
+   {
+      "pk": "104",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "1x8GB"
+      }
+   },
+   {
+      "pk": "105",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Crucial",
+         "name": "UDIMM",
+         "speed": "DDR4-2400",
+         "modules": "1x4GB"
+      }
+   },
+   {
+      "pk": "106",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance LPX",
+         "speed": "DDR4-2400",
+         "modules": "1x4GB"
+      }
+   },
+   {
+      "pk": "107",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "ValueSelect",
+         "speed": "DDR4-2133",
+         "modules": "1x4GB"
+      }
+   },
+   {
+      "pk": "108",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Value",
+         "speed": "DDR4-2133",
+         "modules": "1x4GB"
+      }
+   },
+   {
+      "pk": "109",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "Corsair",
+         "name": "Vengeance",
+         "speed": "DDR3-1600",
+         "modules": "1x8GB"
+      }
+   },
+   {
+      "pk": "110",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "Ripjaws",
+         "speed": "DDR3-1600",
+         "modules": "1x4GB"
+      }
+   },
+   {
+      "pk": "111",
+      "model": "boards.ram",
+      "fields": {
+         "brand": "G.SKILL",
+         "name": "RipjawsX",
+         "speed": "DDR3-1600",
+         "modules": "1x8GB"
+      }
+   }
+]

@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="content mt-4">
+    <h2>SSD</h2>
+    <div class="list-group">
+        {% for ssd in ssd_list %}
+            <a href="{% url 'modules:ssd_detail' ssd.id %}" class="list-group-item list-group-item-action">{{ ssd.brand }} {{ ssd.name }}</a>
+        {% empty %}
+            <p>No data found.</p>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

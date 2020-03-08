@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="content mt-4">
+    <h2>CPU</h2>
+    <div class="list-group">
+        {% for cpu in cpu_list %}
+            <a href="{% url 'modules:cpu_detail' cpu.id %}" class="list-group-item list-group-item-action">{{ cpu.brand }} {{ cpu.name }}</a>
+        {% empty %}
+            <p>No data found.</p>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}
