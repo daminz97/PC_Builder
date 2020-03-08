@@ -31,7 +31,7 @@ Assist users to choose their ideal PC build
 ### How to import data<br />
 Sample CPU, Ram, SSD, HDD datasets were provided in json type file.<br />
 - Run `python manage.py createsuperuser` to create admin (Follow the screen instructions)<br />
-- Run `python manage.py loaddata *filename*` to import data into database<br />
+- Run `python manage.py loaddata <filename>` to import data into database<br />
 - Open browser and go to `127.0.0.1:8000/admin` and login as admin<br />
 <br />
 <br />
