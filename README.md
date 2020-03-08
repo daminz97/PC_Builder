@@ -19,7 +19,7 @@ Assist users to choose their ideal PC build
 
 ### How to run<br />
 - Download the app to local and navigate to the directory. (Python environment installed)<br />
-- Run `python manage.py migrate` to setup database (Sqlite used, can be changed in setting, supported databases can be found at [Django website](https://docs.djangoproject.com/en/3.0/intro/tutorial02/)<br />
+- Run `python manage.py migrate` to setup database (Sqlite used, can be changed in setting, supported databases can be found at [Django website](https://docs.djangoproject.com/en/3.0/intro/tutorial02/))<br />
 - Run `python manage.py makemigrations` to create model tables<br />
 - Run `python manage.py sqlmigrate boards 0001`<br />
 - Run `python manage.py migrate` again to create model tables in database<br />
