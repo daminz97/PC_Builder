@@ -36,17 +36,17 @@ Assist users to choose their ideal PC build
 <br />
 <br />
 <br />
-### How to import data
-Sample CPU, Ram, SSD, HDD datasets were provided in json type file.
-- Run `python manage.py createsuperuser` to create admin (Follow the screen instructions)
-- Run `python manage.py loaddata *filename*` to import data into database
-- Open browser and go to `127.0.0.1:8000/admin` and login as admin
+### How to import data<br />
+Sample CPU, Ram, SSD, HDD datasets were provided in json type file.<br />
+- Run `python manage.py createsuperuser` to create admin (Follow the screen instructions)<br />
+- Run `python manage.py loaddata *filename*` to import data into database<br />
+- Open browser and go to `127.0.0.1:8000/admin` and login as admin<br />
 <br />
 <br />
 <br />
-### Future updates
-1. Pagination for each components
-2. Sample dataset for Motherboard and GPU
-3. Auto-calculated TDP for a PC build
-4. User portfolio page
-5. Votes for PC build
+### Future updates<br />
+1. Pagination for each components<br />
+2. Sample dataset for Motherboard and GPU<br />
+3. Auto-calculated TDP for a PC build<br />
+4. User portfolio page<br />
+5. Votes for PC build<br />
